@@ -1,7 +1,7 @@
 # Proyecto Api Registro Usuario
 
-- api que permite buscar,registrar,modificar,eliminar un usuario.
-- permite generar un token con JWT y validarlo para realizar las peticiones de buscar,registrar,modificar,eliminar un usuario
+- Esta api permite buscar,registrar,modificar y eliminar un usuario.
+- Permite generar un token con JWT y validarlo para realizar las peticiones de buscar,registrar,modificar,eliminar un usuario
 
 ## Tecnologias
 
