@@ -1,1 +1,17 @@
-# apirest registro usuarios
+# Proyecto Api Registro Usuario
+
+- api que permite buscar,registrar,modificar,eliminar un usuario.
+- permite generar un token con JWT y validarlo para realizar las peticiones de buscar,registrar,modificar,eliminar un usuario
+
+## Tecnologias
+
+* Java version 11
+* Spring boot version 2.6.4
+* JWT
+* MySql
+
+## Ramas
+
+* La Rama Master funciona en local
+
+
