@@ -2,8 +2,6 @@ package com.registro.usuario.controllers;
 
 import com.registro.usuario.models.User;
 import com.registro.usuario.services.IUserService;
-import de.mkammerer.argon2.Argon2;
-import de.mkammerer.argon2.Argon2Factory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
